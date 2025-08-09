@@ -9,7 +9,9 @@ document.addEventListener('DOMContentLoaded', () => {
         "The sun will rise from the east.",
         "You just read a fortune.",
         "This fortune is a sentence.",
-        "Opening your eyes will allow you to see."
+        "Opening your eyes will allow you to see.",
+        
+
     ];
 
     const fortuneText = document.getElementById('fortune-text');
