@@ -10,6 +10,11 @@ document.addEventListener('DOMContentLoaded', () => {
         "You just read a fortune.",
         "This fortune is a sentence.",
         "Opening your eyes will allow you to see."
+        "You will breathe at least once today."
+        "Tomorrow will be followed by the day after tomorrow."
+       "Your left shoe will probably still fit your left foot."
+       "Clouds may or may not be in the sky tonight."
+       "If you drop something, it will fall down."
     ];
 
     const fortuneText = document.getElementById('fortune-text');
